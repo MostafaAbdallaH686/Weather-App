@@ -16,4 +16,4 @@ A new Flutter project.
 
 
 
-![Home Screen](assets\screenshots\Screenshot_20250826_140450_com.example.weather_app.jpg)  
+![Home Screen](assets/screenshots/Screenshot_20250826_140450_com.example.weather_app.jpg)  
